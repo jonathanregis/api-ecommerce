@@ -12,7 +12,7 @@
     "url": "https://github.com/inspireui/api-ecommerce/issues"
   },
   "dependencies": {
-    "firebase": "latest",
+    "firebase": "^7.23.0",
     "lodash": "^4.17.14",
     "oauth-1.0a": "^2.2.6",
     "redux-actions": "^2.6.5",
